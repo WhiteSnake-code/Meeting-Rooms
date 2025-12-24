@@ -11,7 +11,7 @@ It allows creating rooms, making reservations, and retrieving existing bookings 
 - Spring Boot  
 - Spring Web  
 - Spring Data JPA (Hibernate)  
-- H2 Database (for development)  
+- MySQL Database (for development)  
 - Lombok (optional)  
 - Gradle  
 
